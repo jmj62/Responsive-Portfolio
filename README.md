@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Assignment 2 - A Responsive Portfolio
+# Basic-Portfolio
+Assignment 1.2
